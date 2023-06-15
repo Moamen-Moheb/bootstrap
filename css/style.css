@@ -7,6 +7,19 @@
     width: 20px;
     height: 20px;
 }
+.container .row .col-3 div img{
+    width: 20px;
+    height: 20px;
+}
 .yellow .col-3{
     padding: 5px;
+}
+.yellow .row col-2 {
+    padding: 5px;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.yellow-font{
+    color: yellow;
 }
