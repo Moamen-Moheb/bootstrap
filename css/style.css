@@ -48,15 +48,15 @@
   }
 
 
-.carousel-caption * {
+/* .carousel-caption * {
     margin: 30px;
 
-}
+} */
 
 .welcome-div{
     padding: 50px;
 }
-.welcome-div .col-4 img {
+.welcome-div .col-md-4 img {
     height: 250px;
     width: 400px;
 
