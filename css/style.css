@@ -1,4 +1,4 @@
-.yellow {
+.yellow-bar {
     background-color: #ffc107;
     height: 40px;
 
@@ -14,11 +14,11 @@
     height: 20px;
 }
 
-.yellow .col-3 {
+.yellow-bar .col-3 {
     padding: 5px;
 }
 
-.yellow .row col-2 {
+.yellow-bar .row col-2 {
     padding: 5px;
 }
 
@@ -99,3 +99,21 @@
     box-shadow: 0px 15px 10px -15px #111;    
 
   }
+
+  .yellow{
+    background-color: #ffc107;
+  }
+
+.form-control-plaintext{
+    background-color: white;
+    border-color: #d6eef1;
+    border-radius: 5px;
+    
+}
+.form-control-plaintext::placeholder{
+    padding-left: 5px;
+}
+
+/* .btn{
+    padding: 0px;
+} */
